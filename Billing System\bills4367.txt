@@ -1,0 +1,12 @@
+	Welcome to BB Retail Shop
+ Bill Number:4367
+Customer Name:Damodhar
+Phone Number9673884488
+================================
+Products		QTY		Price
+ Maggi		2		24
+ Medical Tax			Rs. 0.0
+ Grocery Tax			Rs. 12.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.36.0
+--------------------------------
